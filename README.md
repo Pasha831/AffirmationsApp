@@ -1,5 +1,5 @@
 # AffirmationsApp
-Simple app with a list of affirmations
+💪Simple app with a list of affirmations
 
 ## What i've learned?
 
