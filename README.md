@@ -9,3 +9,7 @@ Simple app with a list of affirmations
 * Packets and imports in Kotlin
 * What is `MaterialCardView` and how to use it in a connection with `RecyclerView`
 * How to test `List`s and `Adapter`s with an aid of `Espresso` and `mockito` libraries (the latter library right now don't want to be friendly with me, i promise that in future i'll understand what's wrong!)
+
+## How it looks?
+
+![ezgif com-gif-maker (9)](https://user-images.githubusercontent.com/46136468/180949117-2cc056a2-ce53-4c6b-b6a6-ab564ce6da64.gif)
